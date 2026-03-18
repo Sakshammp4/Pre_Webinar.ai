@@ -8,12 +8,7 @@
 
 ## 📸 Workflow Overview
 
-> 📌 **Place image here:** `docs/images/excalidraw-workflow.png`  
-> *(Your full Excalidraw diagram showing Host Level + Attendee Level flow)*
-
-```
-[INSERT EXCALIDRAW WORKFLOW IMAGE HERE]
-```
+![Workflow Diagram](https://raw.githubusercontent.com/Sakshammp4/Pre_Webinar.ai/main/docs/images/excalidraw-workflow.png)
 
 ---
 
@@ -51,12 +46,7 @@ Host logs in
     → Approved posts saved → Single shareable link generated
 ```
 
-> 📌 **Place image here:** `docs/images/dashboard-screenshot.png`  
-> *(Your app dashboard showing templates, approval status, submissions count)*
-
-```
-[INSERT DASHBOARD SCREENSHOT HERE]
-```
+![Dashboard Screenshot](https://raw.githubusercontent.com/Sakshammp4/Pre_Webinar.ai/main/docs/images/dashboard-screenshot.png)
 
 ---
 
@@ -73,23 +63,13 @@ Host drops link in webinar chat
     → Paste + Upload = Done
 ```
 
-> 📌 **Place image here:** `docs/images/attendee-submission-screen.png`  
-> *(The personalization screen attendees see — name, photo upload, rating, template select)*
-
-```
-[INSERT ATTENDEE SUBMISSION SCREEN HERE]
-```
+![Attendee Submission Screen](https://raw.githubusercontent.com/Sakshammp4/Pre_Webinar.ai/main/docs/images/attendee-submission-screen.png)
 
 ---
 
 ### LinkedIn Post Preview
 
-> 📌 **Place image here:** `docs/images/linkedin-post-preview.png`  
-> *(The final generated post card with attendee photo, name, and content)*
-
-```
-[INSERT LINKEDIN POST PREVIEW HERE]
-```
+![LinkedIn Post Preview](https://raw.githubusercontent.com/Sakshammp4/Pre_Webinar.ai/main/docs/images/linkedin-post-preview.png.png)
 
 ---
 

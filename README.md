@@ -210,30 +210,7 @@ My background: I ran **Scult India**, a marketing + AI agency. I've built tools 
 This project is one piece of that proof.
 
 If you're a founder building in the AI/SaaS space and want to talk — I'm open.  
-**[LinkedIn →](https://linkedin.com/in/yourprofile)** | **[YouTube →](https://youtube.com/@yourchannel)**
-
----
-
-## 📌 Image Placement Guide for GitHub
-
-When you add your images to `docs/images/`, replace the placeholder blocks above with:
-
-```markdown
-![Workflow Diagram](docs/images/excalidraw-workflow.png)
-![Dashboard](docs/images/dashboard-screenshot.png)
-![Attendee Screen](docs/images/attendee-submission-screen.png)
-![LinkedIn Preview](docs/images/linkedin-post-preview.png)
-```
-
-**Recommended image sizes for GitHub README:**
-- Workflow diagram: full width (no resize needed)
-- Dashboard + screens: add `width="700"` in HTML img tag for cleaner layout
-
-```html
-<img src="docs/images/dashboard-screenshot.png" width="700" alt="Host Dashboard" />
-```
-
----
+**[LinkedIn →](https://www.linkedin.com/in/sakshamgupta036/)** | **[YouTube →](https://www.youtube.com/@SakshaM700X)**
 
 ## 📄 License
 
